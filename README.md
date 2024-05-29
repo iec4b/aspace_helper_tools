@@ -2,4 +2,4 @@
 Tools to facilitate interaction with ArchivesSpace
 
 ## A running list of dependencies:
-- xsv<https://github.com/BurntSushi/xsv>
+- xsv <https://github.com/BurntSushi/xsv>
